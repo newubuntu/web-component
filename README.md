@@ -30,13 +30,40 @@ http://fgnass.github.io/spin.js/
 9.jquery.selectBoxIt.js  selectBox แบบต่างๆสวยๆ
 ![jquery.selectBoxIt.js](http://i.imgur.com/TfsduJT.png)
 
+10. Bootstrap-Image-Gallery
+![Bootstrap-Image-Gallery](http://i.imgur.com/uqqO2So.png)
+
+11. albumize
+![albumize](http://i.imgur.com/JLFecHQ.png)
+
+12. Awesome Media Queries in JavaScript
+http://wicky.nillia.ms/enquire.js/
+
+
 ====== css =====
 1. PixelKit-Bootstrap-UI-Kits
 ![PixelKit-Bootstrap-UI-Kits](http://i.imgur.com/rKG2PGd.png)
 2. Automatic page load progress bar
 ![Automatic page load progress bar](http://i.imgur.com/uilEjHL.png)
+3. custombox
+![custombox](http://i.imgur.com/2AlTKld.png)
+4. vex Dialogs
+![custombox](http://i.imgur.com/FXF1CnI.png)
+ http://github.hubspot.com/vex/docs/welcome/
 
 ====== php =====
 
 
 ======java=====
+
+
+======project kit=====
+1. pongstagr.am == Instagram
+http://pongstr.github.io/pongstagr.am/
+2. jquery-instagram == Instagram
+http://potomak.github.io/jquery-instagram/
+3.  Editor  
+http://hackerwins.github.io/summernote/example.html
+
+4. pongstagr.am == Instagram
+5. pongstagr.am == Instagram
