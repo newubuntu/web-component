@@ -43,6 +43,7 @@ http://wicky.nillia.ms/enquire.js/
 ====== css =====
 1. PixelKit-Bootstrap-UI-Kits
 ![PixelKit-Bootstrap-UI-Kits](http://i.imgur.com/rKG2PGd.png)
+https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits
 
 2. Automatic page load progress bar
 ![Automatic page load progress bar](http://i.imgur.com/uilEjHL.png)
